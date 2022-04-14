@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\2965c834d866ba46060d27ce8eccf9a9\transformed\material-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\7ae58eee2d63616bf384e37b5ce879ae\transformed\activity-compose-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\266daa851caa71857732a72e634d672c\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\4145d745174cdca290fe79792b661ee8\transformed\material-ripple-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c7cf202f2bda404cba5e9f8436f0e9a9\transformed\foundation-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c5b87acdc56bae6097fe2fec6b6bd917\transformed\animation-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\a6916f37d70ed61244af422a635e4d67\transformed\material-icons-core-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\45e69214af76fa6ea778e38394c5d761\transformed\foundation-layout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\bc9f311e0232b718599a61277d7ab7e5\transformed\animation-core-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\91f6c83995a10aa39be6a819b73de815\transformed\ui-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\e6511ba1033ae0f8294afbfa18b9cb2a\transformed\activity-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\df21c62d9b5156509c74913c33a40f0c\transformed\lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\3d9d7c1703abe6a85001fb899e35bef0\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\8f5f6919a4b3d782f321f0dd7acb0619\transformed\ui-text-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\626ba2939bfb4bd8d8f9783e84cd0a17\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ee6ac38da5ef5c32ea35bf6525f9c1d2\transformed\ui-graphics-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\59c0f84a950f44bd3fd9b2dc04fc6656\transformed\ui-unit-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ace61ad204b55bc96771daf265e6201b\transformed\ui-geometry-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\e170f907bcf235d94eda45d48dd4c328\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\5d64972827f36c455c59a11ee18636a8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\37fe01e602d41a1ad8702b62d1d3f34b\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\1be85343951d600db3c1c9f946a02d78\transformed\ui-util-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\1817d1cd8571d7c081d0c2e834550484\transformed\activity-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a1899b84de5c01343cc187c9a260a288\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\8f1fbe3e361d5ed7421e5a54c2af3f69\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\ad89569dcefb215dcc84f204f679898f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\66ddaea5b5aa30ce613a677ec22b0f97\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\a9bc51fbd66972e62f13aa19553b1a95\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\d2f81daeee12e539be086425903bd926\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\9a1ade338d55f2c8ab3d7def53e872ca\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\eness\.gradle\caches\transforms-3\038655a44be417008f1e0c0192cce25a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\5c0b03a4718ddef7a70d31212cd1c5cd\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\de7207be033d64bcd0905618046d2ba7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\504b5924fefa0a79f37f9dc5081c0ba3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\d2f81daeee12e539be086425903bd926\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\d2f81daeee12e539be086425903bd926\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.bizcard.MainActivity
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:15:13-45
+	android:exported
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\2965c834d866ba46060d27ce8eccf9a9\transformed\material-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\2965c834d866ba46060d27ce8eccf9a9\transformed\material-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\7ae58eee2d63616bf384e37b5ce879ae\transformed\activity-compose-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\7ae58eee2d63616bf384e37b5ce879ae\transformed\activity-compose-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\266daa851caa71857732a72e634d672c\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\266daa851caa71857732a72e634d672c\transformed\ui-tooling-data-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\4145d745174cdca290fe79792b661ee8\transformed\material-ripple-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\4145d745174cdca290fe79792b661ee8\transformed\material-ripple-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c7cf202f2bda404cba5e9f8436f0e9a9\transformed\foundation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c7cf202f2bda404cba5e9f8436f0e9a9\transformed\foundation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c5b87acdc56bae6097fe2fec6b6bd917\transformed\animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\c5b87acdc56bae6097fe2fec6b6bd917\transformed\animation-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\a6916f37d70ed61244af422a635e4d67\transformed\material-icons-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\a6916f37d70ed61244af422a635e4d67\transformed\material-icons-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\45e69214af76fa6ea778e38394c5d761\transformed\foundation-layout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\45e69214af76fa6ea778e38394c5d761\transformed\foundation-layout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\bc9f311e0232b718599a61277d7ab7e5\transformed\animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\bc9f311e0232b718599a61277d7ab7e5\transformed\animation-core-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\91f6c83995a10aa39be6a819b73de815\transformed\ui-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\91f6c83995a10aa39be6a819b73de815\transformed\ui-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\e6511ba1033ae0f8294afbfa18b9cb2a\transformed\activity-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\e6511ba1033ae0f8294afbfa18b9cb2a\transformed\activity-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\df21c62d9b5156509c74913c33a40f0c\transformed\lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\df21c62d9b5156509c74913c33a40f0c\transformed\lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\3d9d7c1703abe6a85001fb899e35bef0\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\3d9d7c1703abe6a85001fb899e35bef0\transformed\ui-tooling-preview-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\8f5f6919a4b3d782f321f0dd7acb0619\transformed\ui-text-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\8f5f6919a4b3d782f321f0dd7acb0619\transformed\ui-text-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\626ba2939bfb4bd8d8f9783e84cd0a17\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\626ba2939bfb4bd8d8f9783e84cd0a17\transformed\runtime-saveable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ee6ac38da5ef5c32ea35bf6525f9c1d2\transformed\ui-graphics-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ee6ac38da5ef5c32ea35bf6525f9c1d2\transformed\ui-graphics-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\59c0f84a950f44bd3fd9b2dc04fc6656\transformed\ui-unit-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\59c0f84a950f44bd3fd9b2dc04fc6656\transformed\ui-unit-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ace61ad204b55bc96771daf265e6201b\transformed\ui-geometry-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\ace61ad204b55bc96771daf265e6201b\transformed\ui-geometry-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\e170f907bcf235d94eda45d48dd4c328\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\e170f907bcf235d94eda45d48dd4c328\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\5d64972827f36c455c59a11ee18636a8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\5d64972827f36c455c59a11ee18636a8\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\37fe01e602d41a1ad8702b62d1d3f34b\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\37fe01e602d41a1ad8702b62d1d3f34b\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\1be85343951d600db3c1c9f946a02d78\transformed\ui-util-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\1be85343951d600db3c1c9f946a02d78\transformed\ui-util-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\1817d1cd8571d7c081d0c2e834550484\transformed\activity-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] C:\Users\eness\.gradle\caches\transforms-3\1817d1cd8571d7c081d0c2e834550484\transformed\activity-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a1899b84de5c01343cc187c9a260a288\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a1899b84de5c01343cc187c9a260a288\transformed\savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\8f1fbe3e361d5ed7421e5a54c2af3f69\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\8f1fbe3e361d5ed7421e5a54c2af3f69\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\eness\.gradle\caches\transforms-3\6bd06ca0e5f33590c68af0ab392d3a5d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\ad89569dcefb215dcc84f204f679898f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\ad89569dcefb215dcc84f204f679898f\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\66ddaea5b5aa30ce613a677ec22b0f97\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\66ddaea5b5aa30ce613a677ec22b0f97\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\a9bc51fbd66972e62f13aa19553b1a95\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] C:\Users\eness\.gradle\caches\transforms-3\a9bc51fbd66972e62f13aa19553b1a95\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\d2f81daeee12e539be086425903bd926\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\d2f81daeee12e539be086425903bd926\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\9a1ade338d55f2c8ab3d7def53e872ca\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\9a1ade338d55f2c8ab3d7def53e872ca\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\eness\.gradle\caches\transforms-3\038655a44be417008f1e0c0192cce25a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\eness\.gradle\caches\transforms-3\038655a44be417008f1e0c0192cce25a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\5c0b03a4718ddef7a70d31212cd1c5cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\5c0b03a4718ddef7a70d31212cd1c5cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\de7207be033d64bcd0905618046d2ba7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\eness\.gradle\caches\transforms-3\de7207be033d64bcd0905618046d2ba7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\504b5924fefa0a79f37f9dc5081c0ba3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\504b5924fefa0a79f37f9dc5081c0ba3\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\BizCard\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] C:\Users\eness\.gradle\caches\transforms-3\b51caf38ac2ef28f2937184555a25dce\transformed\ui-tooling-1.1.1\AndroidManifest.xml:26:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\eness\.gradle\caches\transforms-3\b3951a30d12f602a1c12b09dbdb042c2\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] C:\Users\eness\.gradle\caches\transforms-3\a6e1d85aaa859ab105a64a54dd80ef91\transformed\profileinstaller-1.1.0\AndroidManifest.xml:43:25-88
